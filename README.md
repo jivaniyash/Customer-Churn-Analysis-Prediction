@@ -74,3 +74,5 @@ Using python & jupyter notebook - [data_exploration.ipynb](https://github.com/ji
 
 ---
 
+Modelled Neural Network algorithm in [Rapid Miner file](https://github.com/jivaniyash/Customer-Churn-Analysis-Prediction/blob/master/Neural%20Net%20-%20Accuracy%2096_%20Apply%20unlabelled.rmp) to predict new unseen [customer records](https://github.com/jivaniyash/Customer-Churn-Analysis-Prediction/blob/master/Unlabeled%20Bank%20Churner%20records%20to%20be%20%20classified.xlsx)
+
